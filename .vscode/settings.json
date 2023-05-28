@@ -8,5 +8,6 @@
         "editor.formatOnType": true,
         "editor.wordBasedSuggestions": false,
         "editor.defaultFormatter": "ms-python.python"
-    }
+    },
+    "cSpell.words": ["streamlit"]
 }
