@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+    "python.formatting.provider": "yapf",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": false,
+        "editor.defaultFormatter": "ms-python.python"
+    }
+}
