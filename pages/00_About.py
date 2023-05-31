@@ -1,6 +1,13 @@
 import streamlit as st
 
-st.title('サイトに関して')
+st.title('about')
+
+st.header('更新履歴')
+
+st.write('2023/06/01 本サイトを公開しました．')
+st.markdown('---')
+
+st.header('サイトに関して')
 
 st.write('''
 本サイトはPythonの情報提供を目的として作成され，特に意見や新規性を主張するものではありません．
